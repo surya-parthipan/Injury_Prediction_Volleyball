@@ -1,0 +1,29 @@
+Question 1 (DifficultParticipating)
+Have you had any difficulties participating in normal training and competition due to injury, illness or other health problems during the past week?
+0  Full participation without health problems
+1  Full participation, but with injury/illness
+2  Reduced participation due to injury/illness 
+3  Cannot participate due to injury/illness
+
+Question 2 (ReducedTraining)
+To what extent have you reduced your training volume due to injury, illness or other health problems during the past week?
+0  No reduction
+1  To a minor extent
+2  To a moderate extent
+3  To a major extent 
+4  Cannot participate at all
+
+Question 3 (AffectedPerformance)
+To what extent has injury, illness or other health problems affected your performance during the past week?
+0  No effect
+1  To a minor extent
+2  To a moderate extent 
+3  To a major extent
+4  Cannot participate at all
+
+Question 4 (SymptomsComplaints)
+To what extent have you experienced symptoms/health complaints during the past week?
+0  No symptoms/health complaints
+1  To a mild extent
+2  To a moderate extent
+3  To a severe extent
